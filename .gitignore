@@ -4,6 +4,10 @@ CLAUDE.md
 
 /.claude
 /.claude/*
-/data/*
+
+data/*
+!data/processed/
+data/processed/*
+!data/processed/processing_summary.txt
 
 /specs/*

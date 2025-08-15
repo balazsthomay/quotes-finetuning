@@ -1,0 +1,14 @@
+Quote Processing Summary
+======================
+
+Total quotes processed: 33,697
+Source distribution:
+  kaggle: 28,723
+  huggingface: 3,465
+  github: 1,509
+
+Unique authors: 9,733
+Unknown authors: 116
+
+Quote length range: 11-150 characters
+Average length: 79.0 characters
