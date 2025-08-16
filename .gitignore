@@ -14,3 +14,5 @@ data/training/*
 !data/training/theme_extraction_summary.json
 
 /specs/*
+
+/notebooks/training_setup_hft.ipynb
