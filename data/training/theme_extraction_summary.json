@@ -53,8 +53,8 @@
     }
   },
   "file_outputs": {
-    "training_dataset": "/Users/thomaybalazs/quotes-finetuning/data/training/theme_labeled_dataset.json",
-    "cache_file": "/Users/thomaybalazs/quotes-finetuning/data/training/theme_extraction_cache.json",
-    "log_file": "/Users/thomaybalazs/quotes-finetuning/data/training/theme_extraction.log"
+    "training_dataset": "data/training/theme_labeled_dataset.json",
+    "cache_file": "data/training/theme_extraction_cache.json",
+    "log_file": "data/training/theme_extraction.log"
   }
 }
