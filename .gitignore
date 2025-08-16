@@ -9,5 +9,8 @@ data/*
 !data/processed/
 data/processed/*
 !data/processed/processing_summary.txt
+!data/training/
+data/training/*
+!data/training/theme_extraction_summary.json
 
 /specs/*

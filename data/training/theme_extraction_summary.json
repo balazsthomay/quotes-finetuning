@@ -1,0 +1,60 @@
+{
+  "processing_summary": {
+    "total_quotes": 33697,
+    "quotes_processed": 33697,
+    "success_rate_percent": 100.0,
+    "processing_timestamp": "2025-08-16T14:37:06.850348"
+  },
+  "theme_extraction": {
+    "unique_themes_extracted": 16359,
+    "avg_themes_per_quote": 1.98,
+    "top_10_themes": {
+      "resilience": 2328,
+      "love": 1042,
+      "perseverance": 1025,
+      "authenticity": 971,
+      "personal growth": 821,
+      "empowerment": 685,
+      "faith": 672,
+      "self-awareness": 654,
+      "self-acceptance": 548,
+      "self-discovery": 542
+    },
+    "theme_distribution_stats": {
+      "most_common": 2328,
+      "least_common": 1,
+      "median_frequency": 1
+    }
+  },
+  "training_data": {
+    "total_training_pairs": 100064,
+    "pairs_per_quote_avg": 2.97,
+    "validation_results": {
+      "valid": true,
+      "total_pairs": 100064,
+      "valid_pairs": 100064,
+      "unique_pairs": 100063,
+      "avg_input_length": 43.03775583626479,
+      "avg_output_length": 78.92500799488327,
+      "min_input_length": 19,
+      "max_input_length": 138,
+      "min_output_length": 11,
+      "max_output_length": 150
+    },
+    "template_usage": {
+      "Template 5": 12445,
+      "Template 6": 12781,
+      "Template 3": 12546,
+      "Template 1": 12334,
+      "Template 2": 12371,
+      "Template 4": 12613,
+      "Template 7": 12443,
+      "Template 8": 12531
+    }
+  },
+  "file_outputs": {
+    "training_dataset": "/Users/thomaybalazs/quotes-finetuning/data/training/theme_labeled_dataset.json",
+    "cache_file": "/Users/thomaybalazs/quotes-finetuning/data/training/theme_extraction_cache.json",
+    "log_file": "/Users/thomaybalazs/quotes-finetuning/data/training/theme_extraction.log"
+  }
+}
