@@ -12,11 +12,13 @@ data/processed/*
 !data/training/
 data/training/*
 !data/training/theme_extraction_summary.json
+!data/evaluation_results.json
 
 /specs/*
 
 /notebooks/training_setup_hft.ipynb
 /notebooks/training_setup_tt.ipynb
+/notebooks/test_model.ipynb
 
 # macOS system files
 .DS_Store
