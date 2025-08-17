@@ -16,6 +16,15 @@ data/training/*
 /specs/*
 
 /notebooks/training_setup_hft.ipynb
+/notebooks/training_setup_tt.ipynb
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Training scripts (auto-generated)
+run_training_mlx.sh
+run_training.sh
 
 /models/llama-3.2-3b-instruct-mlx-4bit
 /models/llama-3.2-3b-instruct-mlx-4bit/*
