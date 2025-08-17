@@ -24,8 +24,11 @@ Simply enter a topic you'd like advice about, such as:
 
 The model will generate a personalized motivational response to help inspire and guide you.
 
+
+## Sample Results from Fine Tuned vs Base Model
+
 <details>
-<summary>📊 Results Summary</summary>
+<summary>View Comparison Results</summary>
 
 🎯 **PROMPT**: Give me advice about perseverance  
 📚 **FINE-TUNED**: *(Empty response)*  
