@@ -16,3 +16,6 @@ data/training/*
 /specs/*
 
 /notebooks/training_setup_hft.ipynb
+
+/models/llama-3.2-3b-instruct-mlx-4bit
+/models/llama-3.2-3b-instruct-mlx-4bit/*
